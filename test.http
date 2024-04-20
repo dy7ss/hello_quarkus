@@ -1,0 +1,18 @@
+GET http://localhost:8080/hello/greeting/tamada
+
+###
+
+GET http://localhost:8080/hello?name=taroyamada1
+
+
+###
+GET http://localhost:8080/hello/names
+
+
+###
+GET http://localhost:8080/hello
+
+
+
+###
+POST http://localhost:8080/hello
